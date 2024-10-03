@@ -1,5 +1,5 @@
 //Start coding here
-const greeting = "Hello ! 😁";
+const greeting = ()=>{console.log("Hello ! 😁")}; // เพิ่ม ()=>{console.log("Hello ! 😁")}
 
 greeting();
 
